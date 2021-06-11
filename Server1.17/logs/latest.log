@@ -1,29 +1,35 @@
-[09:37:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:37:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:37:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:37:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:37:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:37:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:37:01] [main/INFO]: Reloading ResourceManager: Default
-[09:37:02] [Worker-Main-10/INFO]: Loaded 7 recipes
-[09:37:02] [Worker-Main-10/INFO]: Loaded 1137 advancements
-[09:37:03] [Server thread/INFO]: Starting minecraft server version 1.17
-[09:37:03] [Server thread/INFO]: Loading properties
-[09:37:03] [Server thread/INFO]: Default game type: SURVIVAL
-[09:37:03] [Server thread/INFO]: Generating keypair
-[09:37:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:37:03] [Server thread/INFO]: Using default channel type
-[09:37:04] [Server thread/INFO]: Preparing level "world"
-[09:37:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:37:04] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[09:37:04] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[09:37:05] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[09:37:05] [Worker-Main-9/INFO]: Preparing spawn area: 13%
-[09:37:08] [Worker-Main-14/INFO]: Preparing spawn area: 32%
-[09:37:08] [Worker-Main-10/INFO]: Preparing spawn area: 32%
-[09:37:08] [Worker-Main-8/INFO]: Preparing spawn area: 32%
-[09:37:08] [Worker-Main-8/INFO]: Preparing spawn area: 32%
-[09:37:08] [Worker-Main-10/INFO]: Preparing spawn area: 32%
-[09:37:08] [Worker-Main-10/INFO]: Preparing spawn area: 96%
-[09:37:08] [Server thread/INFO]: Time elapsed: 4526 ms
-[09:37:08] [Server thread/INFO]: Done (4.636s)! For help, type "help"
+[09:39:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:39:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:39:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:39:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:39:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:39:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:39:28] [main/INFO]: Reloading ResourceManager: Default
+[09:39:28] [Worker-Main-12/INFO]: Loaded 7 recipes
+[09:39:29] [Worker-Main-12/INFO]: Loaded 1137 advancements
+[09:39:29] [Server thread/INFO]: Starting minecraft server version 1.17
+[09:39:29] [Server thread/INFO]: Loading properties
+[09:39:29] [Server thread/INFO]: Default game type: SURVIVAL
+[09:39:29] [Server thread/INFO]: Generating keypair
+[09:39:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:39:29] [Server thread/INFO]: Using default channel type
+[09:39:30] [Server thread/INFO]: Preparing level "world"
+[09:39:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:39:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[09:39:30] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[09:39:31] [Worker-Main-11/INFO]: Preparing spawn area: 1%
+[09:39:34] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[09:39:34] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[09:39:34] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[09:39:34] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[09:39:34] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[09:39:34] [Worker-Main-8/INFO]: Preparing spawn area: 43%
+[09:39:34] [Server thread/INFO]: Time elapsed: 4279 ms
+[09:39:34] [Server thread/INFO]: Done (4.343s)! For help, type "help"
+[09:42:01] [User Authenticator #1/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
+[09:42:01] [Server thread/INFO]: zcool1[/192.168.50.90:60951] logged in with entity id 764 at (14.447561866349917, 44.5, -89.4406299519738)
+[09:42:01] [Server thread/INFO]: zcool1 joined the game
+[11:46:21] [Server thread/INFO]: Villager bjq['Mason'/16794, l='ServerLevel[world]', x=4.30, y=58.54, z=-77.42] died, message: 'Mason was slain by zcool1'
+[11:55:32] [Server thread/INFO]: Villager bjq['Librarian'/414, l='ServerLevel[world]', x=15.70, y=55.86, z=-86.51] died, message: 'Librarian was slain by zcool1'
+[12:17:02] [Server thread/INFO]: zcool1 lost connection: Disconnected
+[12:17:02] [Server thread/INFO]: zcool1 left the game
