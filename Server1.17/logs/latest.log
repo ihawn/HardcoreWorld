@@ -1,88 +1,74 @@
-[18:12:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:12:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:12:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:12:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:12:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:12:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:12:51] [main/INFO]: Reloading ResourceManager: Default
-[18:12:51] [Worker-Main-14/INFO]: Loaded 7 recipes
-[18:12:52] [Worker-Main-14/INFO]: Loaded 1137 advancements
-[18:12:52] [Server thread/INFO]: Starting minecraft server version 1.17
-[18:12:52] [Server thread/INFO]: Loading properties
-[18:12:52] [Server thread/INFO]: Default game type: SURVIVAL
-[18:12:52] [Server thread/INFO]: Generating keypair
-[18:12:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:12:52] [Server thread/INFO]: Using default channel type
-[18:12:53] [Server thread/INFO]: Preparing level "world"
-[18:12:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:12:53] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:12:53] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:12:54] [Worker-Main-8/INFO]: Preparing spawn area: 4%
-[18:12:54] [Worker-Main-9/INFO]: Preparing spawn area: 19%
-[18:12:57] [Worker-Main-12/INFO]: Preparing spawn area: 34%
-[18:12:57] [Worker-Main-12/INFO]: Preparing spawn area: 34%
-[18:12:57] [Worker-Main-12/INFO]: Preparing spawn area: 34%
-[18:12:57] [Worker-Main-12/INFO]: Preparing spawn area: 34%
-[18:12:57] [Worker-Main-12/INFO]: Preparing spawn area: 34%
-[18:12:57] [Server thread/INFO]: Time elapsed: 4340 ms
-[18:12:57] [Server thread/INFO]: Done (4.417s)! For help, type "help"
-[18:13:00] [User Authenticator #1/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
-[18:13:00] [Server thread/INFO]: iiiaccidently[/24.13.249.38:50776] logged in with entity id 934 at (8.307068183703619, 58.0, -81.34643237148214)
-[18:13:00] [Server thread/INFO]: iiiaccidently joined the game
-[18:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[18:14:49] [User Authenticator #2/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
-[18:14:49] [Server thread/INFO]: zcool1[/192.168.50.90:65203] logged in with entity id 1258 at (6.89100406278554, 58.0, -79.97431124419428)
-[18:14:49] [Server thread/INFO]: zcool1 joined the game
-[18:28:35] [Server thread/INFO]: zcool1 has made the advancement [We Need to Go Deeper]
-[18:28:52] [Server thread/INFO]: iiiaccidently has made the advancement [We Need to Go Deeper]
-[18:29:10] [Server thread/INFO]: iiiaccidently has made the advancement [A Terrible Fortress]
-[18:38:24] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
-[18:38:24] [Server thread/INFO]: iiiaccidently left the game
-[18:38:26] [User Authenticator #3/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
-[18:38:26] [Server thread/INFO]: iiiaccidently[/24.13.249.38:64410] logged in with entity id 7953 at (9.11137353863317, 49.0, -83.82402330663548)
-[18:38:26] [Server thread/INFO]: iiiaccidently joined the game
-[18:38:44] [Server thread/INFO]: zcool1 lost connection: Disconnected
-[18:38:44] [Server thread/INFO]: zcool1 left the game
-[18:38:49] [User Authenticator #4/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
-[18:38:49] [Server thread/INFO]: zcool1[/192.168.50.90:62225] logged in with entity id 8032 at (56.531779223156065, 69.9375, -65.28141243778121)
-[18:38:49] [Server thread/INFO]: zcool1 joined the game
-[19:03:57] [Server thread/INFO]: zcool1 has made the advancement [A Terrible Fortress]
-[19:06:27] [Server thread/INFO]: iiiaccidently has made the advancement [Take Aim]
-[19:08:15] [Server thread/INFO]: iiiaccidently has made the advancement [Into Fire]
-[19:12:41] [Server thread/INFO]: zcool1 has made the advancement [Hot Stuff]
-[19:12:57] [Server thread/INFO]: zcool1 has made the advancement [Into Fire]
-[19:18:29] [Server thread/INFO]: iiiaccidently has made the advancement [Local Brewery]
-[19:22:44] [Server thread/INFO]: iiiaccidently has made the advancement [Hot Stuff]
-[19:39:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=24, y=50, z=-102} gg{x=24, y=51, z=-102}
-[19:39:25] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=23, y=52, z=-100} gg{x=23, y=53, z=-100}
-[19:39:25] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=23, y=52, z=-100} gg{x=23, y=53, z=-100}
-[19:40:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=9, y=33, z=-87} gg{x=9, y=34, z=-87}
-[19:40:39] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=10, y=33, z=-87} gg{x=10, y=34, z=-87}
-[19:40:40] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=10, y=33, z=-88} gg{x=10, y=34, z=-88}
-[20:10:30] [Server thread/INFO]: Villager bjq['Librarian'/407, l='ServerLevel[world]', x=6.44, y=58.00, z=-90.70] died, message: 'Librarian was slain by zcool1'
-[20:28:19] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
-[20:28:19] [Server thread/INFO]: iiiaccidently left the game
-[20:37:06] [User Authenticator #5/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
-[20:37:06] [Server thread/INFO]: iiiaccidently[/24.13.249.38:61337] logged in with entity id 34428 at (1.6208931612728341, 59.0, -80.61850896763926)
-[20:37:06] [Server thread/INFO]: iiiaccidently joined the game
-[20:44:21] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
-[20:44:21] [Server thread/INFO]: iiiaccidently left the game
-[20:45:32] [Server thread/INFO]: zcool1 lost connection: Disconnected
-[20:45:32] [Server thread/INFO]: zcool1 left the game
-[20:50:43] [User Authenticator #6/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
-[20:50:43] [Server thread/INFO]: iiiaccidently[/24.13.249.38:60008] logged in with entity id 35812 at (7.0740557294085855, 34.0, -80.67125927541764)
-[20:50:43] [Server thread/INFO]: iiiaccidently joined the game
-[20:50:58] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
-[20:50:58] [Server thread/INFO]: iiiaccidently left the game
-[20:54:15] [User Authenticator #7/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
-[20:54:15] [Server thread/INFO]: zcool1[/192.168.50.90:58809] logged in with entity id 35886 at (8.843520008041283, 58.0, -84.69999998807907)
-[20:54:15] [Server thread/INFO]: zcool1 joined the game
-[20:55:28] [User Authenticator #8/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
-[20:55:28] [Server thread/INFO]: iiiaccidently[/24.13.249.38:57913] logged in with entity id 36144 at (7.0740557294085855, 34.0, -80.67125927541764)
-[20:55:28] [Server thread/INFO]: iiiaccidently joined the game
-[20:57:50] [Server thread/INFO]: zcool1 has made the advancement [Local Brewery]
-[21:03:44] [Server thread/INFO]: iiiaccidently has made the advancement [Voluntary Exile]
-[21:04:28] [Server thread/INFO]: zcool1 lost connection: Disconnected
-[21:04:28] [Server thread/INFO]: zcool1 left the game
-[21:04:29] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
-[21:04:29] [Server thread/INFO]: iiiaccidently left the game
+[17:56:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:56:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:56:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:56:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:37] [main/INFO]: Reloading ResourceManager: Default
+[17:56:38] [Worker-Main-12/INFO]: Loaded 7 recipes
+[17:56:38] [Worker-Main-12/INFO]: Loaded 1137 advancements
+[17:56:39] [Server thread/INFO]: Starting minecraft server version 1.17
+[17:56:39] [Server thread/INFO]: Loading properties
+[17:56:39] [Server thread/INFO]: Default game type: SURVIVAL
+[17:56:39] [Server thread/INFO]: Generating keypair
+[17:56:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:56:39] [Server thread/INFO]: Using default channel type
+[17:56:39] [Server thread/INFO]: Preparing level "world"
+[17:56:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:56:40] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:56:40] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:56:41] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:56:41] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:56:42] [Worker-Main-8/INFO]: Preparing spawn area: 7%
+[17:56:44] [Worker-Main-13/INFO]: Preparing spawn area: 10%
+[17:56:44] [Worker-Main-13/INFO]: Preparing spawn area: 10%
+[17:56:44] [Worker-Main-12/INFO]: Preparing spawn area: 10%
+[17:56:44] [Worker-Main-9/INFO]: Preparing spawn area: 10%
+[17:56:44] [Worker-Main-12/INFO]: Preparing spawn area: 10%
+[17:56:45] [Worker-Main-9/INFO]: Preparing spawn area: 58%
+[17:56:45] [Server thread/INFO]: Time elapsed: 5457 ms
+[17:56:45] [Server thread/INFO]: Done (5.599s)! For help, type "help"
+[18:03:14] [User Authenticator #1/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
+[18:03:14] [Server thread/INFO]: zcool1[/192.168.50.90:55041] logged in with entity id 1049 at (8.948239254084234, 58.0, -80.84000423421061)
+[18:03:14] [Server thread/INFO]: zcool1 joined the game
+[18:05:35] [User Authenticator #2/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
+[18:05:35] [Server thread/INFO]: iiiaccidently[/24.13.249.38:57485] logged in with entity id 1457 at (15.752268472852336, 63.0, -91.15176761115691)
+[18:05:35] [Server thread/INFO]: iiiaccidently joined the game
+[18:15:16] [Server thread/INFO]: zcool1 lost connection: Disconnected
+[18:15:16] [Server thread/INFO]: zcool1 left the game
+[18:15:19] [User Authenticator #3/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
+[18:15:19] [Server thread/INFO]: zcool1[/192.168.50.90:50180] logged in with entity id 3391 at (9.436650892864126, 49.0, -85.67405494911009)
+[18:15:19] [Server thread/INFO]: zcool1 joined the game
+[18:15:37] [Server thread/INFO]: zcool1 lost connection: Disconnected
+[18:15:37] [Server thread/INFO]: zcool1 left the game
+[18:15:40] [User Authenticator #4/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
+[18:15:40] [Server thread/INFO]: zcool1[/192.168.50.90:50212] logged in with entity id 3463 at (9.425734252658561, 48.0, -86.10210749517599)
+[18:15:40] [Server thread/INFO]: zcool1 joined the game
+[18:32:29] [Server thread/INFO]: Villager bjq['Librarian'/7054, l='ServerLevel[world]', x=-3.51, y=60.00, z=-14.35] died, message: 'Librarian burned to death'
+[18:43:07] [Server thread/INFO]: zcool1 lost connection: Disconnected
+[18:43:07] [Server thread/INFO]: zcool1 left the game
+[18:43:59] [User Authenticator #5/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
+[18:43:59] [Server thread/INFO]: zcool1[/192.168.50.90:58801] logged in with entity id 10937 at (-79.53838557778825, 32.0, -72.17357173193678)
+[18:43:59] [Server thread/INFO]: zcool1 joined the game
+[18:45:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-87, y=21, z=-84} gg{x=-85, y=21, z=-86}
+[18:45:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-87, y=21, z=-84} gg{x=-85, y=21, z=-86}
+[18:45:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-87, y=21, z=-84} gg{x=-85, y=21, z=-86}
+[18:45:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-87, y=21, z=-84} gg{x=-85, y=21, z=-86}
+[18:45:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-87, y=21, z=-84} gg{x=-85, y=21, z=-86}
+[18:45:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-87, y=21, z=-84} gg{x=-85, y=21, z=-86}
+[18:45:06] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-87, y=21, z=-84} gg{x=-85, y=21, z=-86}
+[18:45:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-86, y=16, z=-91} gg{x=-86, y=15, z=-94}
+[18:45:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-86, y=16, z=-91} gg{x=-86, y=15, z=-94}
+[18:45:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-86, y=16, z=-91} gg{x=-86, y=15, z=-94}
+[18:48:45] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=15, y=11, z=-194} gg{x=14, y=10, z=-192}
+[18:48:45] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=15, y=11, z=-194} gg{x=14, y=10, z=-192}
+[18:49:26] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
+[18:49:26] [Server thread/INFO]: iiiaccidently left the game
+[18:50:39] [User Authenticator #6/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
+[18:50:39] [Server thread/INFO]: iiiaccidently[/24.13.249.38:51285] logged in with entity id 14468 at (-81.5311696620101, 10.0, -198.20669406831055)
+[18:50:39] [Server thread/INFO]: iiiaccidently joined the game
+[18:51:06] [Server thread/INFO]: zcool1 has made the advancement [Hidden in the Depths]
+[18:57:11] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
+[18:57:11] [Server thread/INFO]: iiiaccidently left the game
+[18:57:12] [Server thread/INFO]: zcool1 lost connection: Disconnected
+[18:57:12] [Server thread/INFO]: zcool1 left the game
