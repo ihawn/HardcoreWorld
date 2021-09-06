@@ -1,194 +1,60 @@
-[13:53:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:53:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:53:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:53:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:53:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:53:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:53:12] [main/INFO]: Reloading ResourceManager: Default
-[13:53:13] [Worker-Main-10/INFO]: Loaded 7 recipes
-[13:53:13] [Worker-Main-10/INFO]: Loaded 1137 advancements
-[13:53:14] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[13:53:14] [Server thread/INFO]: Loading properties
-[13:53:14] [Server thread/INFO]: Default game type: SURVIVAL
-[13:53:14] [Server thread/INFO]: Generating keypair
-[13:53:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:53:14] [Server thread/INFO]: Using default channel type
-[13:53:14] [Server thread/INFO]: Preparing level "world"
-[13:53:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:53:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[13:53:15] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[13:53:15] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[13:53:16] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[13:53:16] [Worker-Main-10/INFO]: Preparing spawn area: 6%
-[13:53:20] [Worker-Main-10/INFO]: Preparing spawn area: 8%
-[13:53:20] [Worker-Main-13/INFO]: Preparing spawn area: 8%
-[13:53:20] [Worker-Main-12/INFO]: Preparing spawn area: 8%
-[13:53:20] [Worker-Main-10/INFO]: Preparing spawn area: 8%
-[13:53:20] [Worker-Main-10/INFO]: Preparing spawn area: 8%
-[13:53:20] [Worker-Main-10/INFO]: Preparing spawn area: 8%
-[13:53:20] [Worker-Main-10/INFO]: Preparing spawn area: 8%
-[13:53:20] [Worker-Main-12/INFO]: Preparing spawn area: 45%
-[13:53:21] [Server thread/INFO]: Time elapsed: 6518 ms
-[13:53:21] [Server thread/INFO]: Done (6.626s)! For help, type "help"
-[13:53:24] [User Authenticator #1/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
-[13:53:25] [Server thread/INFO]: iiiaccidently[/24.13.249.38:57391] logged in with entity id 756 at (11.685020903778652, 58.0, -91.35917924049151)
-[13:53:25] [Server thread/INFO]: iiiaccidently joined the game
-[13:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[14:30:03] [User Authenticator #2/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
-[14:30:03] [Server thread/INFO]: zcool1[/192.168.50.90:65252] logged in with entity id 8607 at (14.447561866349917, 44.5, -89.4406299519738)
-[14:30:03] [Server thread/INFO]: zcool1 joined the game
-[14:33:05] [Server thread/INFO]: zcool1 lost connection: Disconnected
-[14:33:05] [Server thread/INFO]: zcool1 left the game
-[14:34:33] [User Authenticator #3/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
-[14:34:33] [Server thread/INFO]: zcool1[/192.168.50.90:54719] logged in with entity id 9455 at (15.846082368387814, 63.0, -90.20207806329768)
-[14:34:33] [Server thread/INFO]: zcool1 joined the game
-[14:34:45] [Server thread/INFO]: zcool1 lost connection: Disconnected
-[14:34:45] [Server thread/INFO]: zcool1 left the game
-[14:36:06] [User Authenticator #4/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
-[14:36:07] [Server thread/INFO]: zcool1[/192.168.50.90:65158] logged in with entity id 9736 at (15.846082368387814, 63.0, -90.20207806329768)
-[14:36:07] [Server thread/INFO]: zcool1 joined the game
-[14:52:03] [Server thread/INFO]: zcool1 lost connection: Disconnected
-[14:52:03] [Server thread/INFO]: zcool1 left the game
-[14:52:17] [User Authenticator #5/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
-[14:52:17] [Server thread/INFO]: zcool1[/192.168.50.90:54824] logged in with entity id 14283 at (61.15251234120842, 70.9375, -84.59466339833186)
-[14:52:17] [Server thread/INFO]: zcool1 joined the game
-[15:13:51] [Server thread/INFO]: zcool1 lost connection: Disconnected
-[15:13:51] [Server thread/INFO]: zcool1 left the game
-[15:13:55] [User Authenticator #6/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
-[15:13:55] [Server thread/INFO]: zcool1[/192.168.50.90:64797] logged in with entity id 20491 at (124.39430869103643, 69.9375, -3.9955664605558057)
-[15:13:55] [Server thread/INFO]: zcool1 joined the game
-[15:49:09] [Server thread/INFO]: zcool1 has made the advancement [We Need to Go Deeper]
-[15:49:31] [Server thread/INFO]: zcool1 has made the advancement [A Terrible Fortress]
-[15:51:14] [Server thread/INFO]: iiiaccidently has made the advancement [We Need to Go Deeper]
-[15:51:25] [Server thread/INFO]: iiiaccidently has made the advancement [A Terrible Fortress]
-[15:53:48] [Server thread/INFO]: zcool1 has made the advancement [Into Fire]
-[15:53:56] [Server thread/INFO]: iiiaccidently has made the advancement [Into Fire]
-[15:58:30] [Server thread/INFO]: iiiaccidently has made the advancement [Take Aim]
-[16:01:14] [Server thread/INFO]: zcool1 has made the advancement [Local Brewery]
-[16:20:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-67, y=62, z=-17} gg{x=-68, y=61, z=-17}
-[16:20:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-67, y=62, z=-17} gg{x=-68, y=61, z=-17}
-[16:20:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-67, y=62, z=-17} gg{x=-68, y=61, z=-17}
-[16:20:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-67, y=62, z=-17} gg{x=-68, y=61, z=-17}
-[16:20:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-67, y=62, z=-17} gg{x=-68, y=61, z=-17}
-[16:20:48] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-67, y=62, z=-17} gg{x=-68, y=61, z=-17}
-[16:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-162, y=43, z=43} gg{x=-163, y=43, z=45}
-[16:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-162, y=43, z=43} gg{x=-163, y=43, z=45}
-[16:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-162, y=43, z=43} gg{x=-163, y=43, z=45}
-[16:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-162, y=43, z=43} gg{x=-163, y=43, z=45}
-[16:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-162, y=43, z=43} gg{x=-163, y=43, z=45}
-[16:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-162, y=43, z=43} gg{x=-163, y=43, z=45}
-[16:26:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-162, y=43, z=43} gg{x=-163, y=43, z=45}
-[16:26:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-162, y=43, z=43} gg{x=-162, y=45, z=50}
-[16:26:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-162, y=43, z=43} gg{x=-162, y=45, z=50}
-[16:26:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-162, y=43, z=43} gg{x=-162, y=45, z=50}
-[16:26:26] [Server thread/INFO]: iiiaccidently has made the advancement [Hidden in the Depths]
-[16:27:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-163, y=55, z=69} gg{x=-163, y=58, z=72}
-[16:27:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-163, y=55, z=69} gg{x=-163, y=58, z=72}
-[16:27:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-163, y=55, z=69} gg{x=-163, y=58, z=72}
-[16:27:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-163, y=55, z=69} gg{x=-163, y=58, z=72}
-[16:27:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-163, y=55, z=69} gg{x=-163, y=58, z=72}
-[16:27:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-163, y=55, z=69} gg{x=-163, y=58, z=72}
-[16:27:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-163, y=55, z=69} gg{x=-163, y=58, z=72}
-[16:28:40] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-157, y=45, z=113} gg{x=-157, y=45, z=114}
-[16:28:40] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-157, y=45, z=113} gg{x=-157, y=45, z=114}
-[16:28:40] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-157, y=45, z=113} gg{x=-157, y=45, z=114}
-[16:28:40] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-157, y=45, z=113} gg{x=-157, y=45, z=114}
-[16:28:40] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-157, y=45, z=113} gg{x=-157, y=45, z=114}
-[16:28:40] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-157, y=45, z=113} gg{x=-157, y=45, z=114}
-[16:28:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-156, y=47, z=117} gg{x=-155, y=47, z=117}
-[16:28:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-156, y=47, z=117} gg{x=-155, y=47, z=117}
-[16:28:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-156, y=47, z=117} gg{x=-155, y=47, z=117}
-[16:32:52] [Server thread/INFO]: zcool1 has made the advancement [Who is Cutting Onions?]
-[16:43:58] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-307, y=43, z=363} gg{x=-307, y=42, z=364}
-[16:43:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-307, y=43, z=363} gg{x=-307, y=42, z=364}
-[16:43:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-307, y=43, z=363} gg{x=-307, y=42, z=364}
-[16:47:28] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-250, y=62, z=293} gg{x=-253, y=68, z=307}
-[16:47:29] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-250, y=62, z=293} gg{x=-253, y=68, z=307}
-[16:47:29] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-250, y=62, z=293} gg{x=-253, y=68, z=307}
-[16:47:29] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-250, y=62, z=293} gg{x=-253, y=68, z=307}
-[16:47:29] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-250, y=62, z=293} gg{x=-253, y=68, z=307}
-[16:48:07] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-344, y=64, z=586} gg{x=-344, y=65, z=585}
-[16:48:07] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-344, y=64, z=586} gg{x=-344, y=65, z=585}
-[16:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-340, y=68, z=591}
-[16:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-340, y=67, z=593} gg{x=-339, y=68, z=591}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:22] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:23] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-337, y=68, z=593} gg{x=-340, y=70, z=597}
-[16:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-335, y=73, z=602} gg{x=-334, y=72, z=603}
-[16:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-335, y=73, z=602} gg{x=-334, y=72, z=603}
-[16:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-335, y=73, z=602} gg{x=-334, y=72, z=603}
-[16:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-335, y=73, z=602} gg{x=-334, y=72, z=603}
-[16:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-335, y=73, z=602} gg{x=-334, y=72, z=603}
-[16:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-335, y=73, z=602} gg{x=-334, y=72, z=603}
-[16:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-335, y=73, z=602} gg{x=-334, y=72, z=603}
-[16:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-335, y=73, z=602} gg{x=-334, y=72, z=603}
-[16:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-335, y=73, z=602} gg{x=-334, y=72, z=603}
-[16:48:32] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-335, y=73, z=602} gg{x=-334, y=72, z=603}
-[16:50:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-215, y=57, z=488} gg{x=-215, y=58, z=487}
-[16:50:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-215, y=57, z=488} gg{x=-215, y=58, z=487}
-[16:50:25] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-215, y=57, z=503} gg{x=-215, y=57, z=504}
-[17:00:30] [Server thread/INFO]: zcool1 has completed the challenge [Hot Tourist Destinations]
-[17:00:33] [Server thread/INFO]: iiiaccidently has completed the challenge [Hot Tourist Destinations]
-[17:01:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-496, y=98, z=847} gg{x=-495, y=99, z=847}
-[17:01:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-496, y=98, z=847} gg{x=-495, y=99, z=847}
-[17:01:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:01:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-491, y=101, z=848} gg{x=-491, y=100, z=848}
-[17:08:34] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-510, y=116, z=859} gg{x=-509, y=116, z=859}
-[17:23:43] [Server thread/INFO]: iiiaccidently has completed the challenge [Subspace Bubble]
-[17:23:46] [Server thread/INFO]: zcool1 has completed the challenge [Subspace Bubble]
-[17:24:45] [Server thread/INFO]: zcool1 lost connection: Disconnected
-[17:24:45] [Server thread/INFO]: zcool1 left the game
-[17:24:51] [User Authenticator #7/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
-[17:24:51] [Server thread/INFO]: zcool1[/192.168.50.90:53428] logged in with entity id 51937 at (-3714.300000011921, 84.0, 7056.920842765464)
-[17:24:51] [Server thread/INFO]: zcool1 joined the game
-[17:28:02] [Server thread/WARN]: iiiaccidently moved wrongly!
-[17:28:24] [Server thread/INFO]: zcool1 lost connection: Disconnected
-[17:28:24] [Server thread/INFO]: zcool1 left the game
-[17:28:36] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
-[17:28:36] [Server thread/INFO]: iiiaccidently left the game
+[14:12:58] [User Authenticator #1/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
+[14:12:59] [Server thread/INFO]: iiiaccidently[/66.225.36.202:56548] logged in with entity id 1022 at (-3630.0479153892447, 68.0, 7048.400644134667)
+[14:12:59] [Server thread/INFO]: iiiaccidently joined the game
+[14:13:06] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
+[14:13:06] [Server thread/INFO]: iiiaccidently left the game
+[14:15:02] [User Authenticator #2/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
+[14:15:02] [Server thread/INFO]: iiiaccidently[/66.225.36.202:63460] logged in with entity id 1240 at (-3630.0479153892447, 68.0, 7048.400644134667)
+[14:15:02] [Server thread/INFO]: iiiaccidently joined the game
+[14:27:18] [User Authenticator #3/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
+[14:27:18] [Server thread/INFO]: zcool1[/192.168.50.90:60549] logged in with entity id 3074 at (-3629.781765770136, 68.0, 7046.516060140773)
+[14:27:18] [Server thread/INFO]: zcool1 joined the game
+[14:27:46] [Server thread/INFO]: <zcool1> discord
+[14:29:16] [Server thread/INFO]: zcool1 lost connection: Disconnected
+[14:29:16] [Server thread/INFO]: zcool1 left the game
+[14:29:25] [User Authenticator #4/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
+[14:29:25] [Server thread/INFO]: zcool1[/192.168.50.90:63955] logged in with entity id 3885 at (-3644.699999988079, 64.0, 7043.40841156561)
+[14:29:25] [Server thread/INFO]: zcool1 joined the game
+[14:38:05] [Server thread/INFO]: zcool1 lost connection: Disconnected
+[14:38:05] [Server thread/INFO]: zcool1 left the game
+[14:39:18] [User Authenticator #5/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
+[14:39:18] [Server thread/INFO]: zcool1[/192.168.50.90:63910] logged in with entity id 6320 at (-464.37495124043056, 95.0, 874.5393555089513)
+[14:39:18] [Server thread/INFO]: zcool1 joined the game
+[14:49:12] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
+[14:49:12] [Server thread/INFO]: iiiaccidently left the game
+[14:50:48] [User Authenticator #6/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
+[14:50:49] [Server thread/INFO]: iiiaccidently[/66.225.36.202:53642] logged in with entity id 8397 at (-464.40896915307746, 95.0, 868.4973340432867)
+[14:50:49] [Server thread/INFO]: iiiaccidently joined the game
+[15:16:18] [Server thread/INFO]: iiiaccidently has made the advancement [Oh Shiny]
+[15:19:06] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
+[15:19:06] [Server thread/INFO]: iiiaccidently left the game
+[15:19:09] [User Authenticator #7/INFO]: UUID of player iiiaccidently is b5e87f0f-efbe-4e4a-bcd1-acd80d291173
+[15:19:09] [Server thread/INFO]: iiiaccidently[/66.225.36.202:49302] logged in with entity id 13904 at (1.699999988079071, 108.0, -16.69999998807907)
+[15:19:09] [Server thread/INFO]: iiiaccidently joined the game
+[15:24:40] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1, y=95, z=-17} gg{x=1, y=94, z=-17}
+[15:30:38] [Server thread/INFO]: zcool1 lost connection: Disconnected
+[15:30:38] [Server thread/INFO]: zcool1 left the game
+[15:30:46] [User Authenticator #8/INFO]: UUID of player zcool1 is 6892b822-5ae3-4912-b260-dd0a539e94eb
+[15:30:46] [Server thread/INFO]: zcool1[/192.168.50.90:57092] logged in with entity id 19626 at (59.562860946960846, 69.9375, -60.34780721281644)
+[15:30:46] [Server thread/INFO]: zcool1 joined the game
+[15:36:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:36:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[15:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
+[15:37:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6185ms or 123 ticks behind
+[15:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4059ms or 81 ticks behind
+[15:38:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4066ms or 81 ticks behind
+[15:38:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4430ms or 88 ticks behind
+[15:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4783ms or 95 ticks behind
+[15:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5443ms or 108 ticks behind
+[15:39:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8511ms or 170 ticks behind
+[15:39:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8628ms or 172 ticks behind
+[15:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10034ms or 200 ticks behind
+[15:40:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8133ms or 162 ticks behind
+[15:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6813ms or 136 ticks behind
+[15:41:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6418ms or 128 ticks behind
+[15:41:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3689ms or 73 ticks behind
+[15:42:52] [Server thread/INFO]: iiiaccidently has made the advancement [Eye Spy]
+[16:16:55] [Server thread/INFO]: iiiaccidently lost connection: Disconnected
+[16:16:55] [Server thread/INFO]: iiiaccidently left the game
+[16:17:34] [Server thread/INFO]: zcool1 lost connection: Disconnected
+[16:17:34] [Server thread/INFO]: zcool1 left the game
